@@ -1,0 +1,4 @@
+3 3
+rw rw w
+r r rw
+n r w
